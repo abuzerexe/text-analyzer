@@ -159,8 +159,7 @@ This project demonstrates understanding of:
 - Large Language Model APIs and usage patterns
 - Tokenization strategies across different model architectures
 - Multi-model comparison and evaluation
-- Production-ready Python application structure
-- Error handling and cost optimization
+- Error handling and learning related to cost
 
 ---
 
