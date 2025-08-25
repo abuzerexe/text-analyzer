@@ -1,0 +1,10 @@
+# Core LLM APIs
+google-generativeai>=0.3.0
+openai>=1.0.0
+
+# Tokenization and ML
+transformers>=4.30.0
+torch>=2.0.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0

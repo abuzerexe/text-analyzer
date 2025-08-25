@@ -1,19 +1,36 @@
-from google import genai
-from dotenv import load_dotenv
-from openai import OpenAI
+import sys
 import os
-
-load_dotenv()
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from config import (
+    GEMINI_API_KEY,
+    OPEN_ROUTER_API_KEY,
+    OPEN_ROUTER_BASE_URL,
+    DEFAULT_GEMINI_MODEL,
+    DEFAULT_OPENAI_MODEL,
+    MAX_TOKENS)
+from openai import OpenAI
+from google import genai
 
 # USING Gemini 
 try:
-    def callGemini (contents):
-        client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+    def callGemini (contents: str):
+        client = genai.Client(api_key=GEMINI_API_KEY)
         response = client.models.generate_content(
-        model="gemini-2.5-flash", contents=contents
+        model=DEFAULT_GEMINI_MODEL, contents=contents
     )
-        return response.text
-    pass
+        usage = response.usage_metadata
+
+        res = {
+            "response" : response.text,
+            "model" : "Gemini",
+            "token_usage" : {
+                "prompt_tokens" : usage.prompt_token_count,
+                "completion_tokens" : usage.candidates_token_count,
+                "total_tokens" : usage.total_token_count
+            }
+        }
+        return res
+    
 except Exception as e:
     print(e)
     pass
@@ -24,12 +41,12 @@ except Exception as e:
 try:
     def callOpenai(content):
         client = OpenAI(
-        base_url="https://openrouter.ai/api/v1",
-        api_key= os.getenv("OPEN_ROUTER_KEY"),
+        base_url=OPEN_ROUTER_BASE_URL,
+        api_key= OPEN_ROUTER_API_KEY,
         )
         completion = client.chat.completions.create(
-        model="openai/gpt-4o",
-        max_tokens=2000,
+        model=DEFAULT_OPENAI_MODEL,
+        max_tokens=MAX_TOKENS,
         messages=[
             {
             "role": "user",
@@ -37,8 +54,18 @@ try:
             }
         ]
         )
-        return completion.choices[0].message.content
-    pass
+        usage = completion.usage
+        res = {
+            "response" : completion.choices[0].message.content,
+            "model" : "Openai",
+            "token_usage" : {
+                "prompt_token" : usage.prompt_tokens,
+                "completion_token": usage.completion_tokens,
+                "total_tokens" : usage.total_tokens
+            }
+        }
+        return res
+    
 except Exception as e:
     print(e)
     pass

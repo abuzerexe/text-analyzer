@@ -15,10 +15,11 @@ try:
         #     print(tokenizer.decode(token))
         
         tokenizer_info = {
+            "input_text": sentence,
             "model_name": name,
             "vocab_len_of_model": v_len,
-            "token_ids": token_ids,
-            "token_ids_len": len(token_ids)
+            "input_token_ids": token_ids,
+            "input_token_ids_len": len(token_ids)
         }
 
         return tokenizer_info

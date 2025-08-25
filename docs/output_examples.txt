@@ -1,0 +1,637 @@
+ AVAILABLE COMPARISON FUNCTIONS:
+==================================================
+
+ TEXT GENERATION COMPARISON
+----------------------------------------
+Comparing OpenAI and Gemini for GENERATION:
+============================================================
+
+GENERATION COMPARISON:
+
+GEMINI RESULT:
+----------------------------------------
+You've hit on one of the most significant and complex discussions of our time. The advancement of AI technology truly presents a double-edged sword for the future of work, offering both incredible promise and substantial challenges.
+
+Let's break down both sides:
+
+---
+
+### The Excitement and Opportunities (The "Exciting" Part)
+
+1.  **Increased Productivity and Efficiency:** AI excels at automating repetitive, manual, and data-intensive tasks. This can free up human workers to focus on more complex, creative, strategic, and interpersonal aspects of their jobs.
+2.  **Creation of New Roles and Industries:** Historically, new technologies have always created new jobs, even as they displaced old ones. AI will drive demand for AI developers, ethicists, data scientists, prompt engineers, AI trainers, and roles we haven't even conceived of yet. Entire new industries could emerge around AI-powered services.
+3.  **Augmentation of Human Capabilities:** AI can act as a powerful co-pilot, enhancing human decision-making, creativity, and problem-solving.
+    *   **Healthcare:** AI assists doctors in diagnosis, drug discovery, and personalized treatment plans.
+    *   **Design & Art:** AI tools can help artists generate ideas, create complex patterns, or animate content more efficiently.
+    *   **Education:** AI can personalize learning experiences, making education more accessible and effective.
+    *   **Research:** AI can process vast amounts of data, accelerating scientific breakthroughs.
+4.  **Improved Work-Life Balance and Quality of Work:** By automating mundane tasks, AI could potentially lead to shorter workweeks, more engaging job roles, and a reduction in dangerous or physically demanding work.
+5.  **Solving Complex Global Challenges:** AI can analyze climate data, accelerate medical research, optimize resource management, and help tackle some of humanity's most pressing problems.
+6.  **Personalized Services at Scale:** From customer service to personalized marketing, AI can deliver highly tailored experiences, improving customer satisfaction and business outcomes.
+
+---
+
+### The Concerns and Challenges (The "Concerning" Part)
+
+1.  **Job Displacement and Unemployment:** This is the most immediate and widely discussed concern. Jobs involving repetitive tasks, data entry, customer service, truck driving, manufacturing, and even some professional roles (like paralegals or entry-level finance analysts) are at high risk of partial or full automation.
+2.  **Skills Gap and Reskilling Crisis:** The skills required for the new AI-driven economy will be vastly different. Many workers will lack the necessary digital literacy, critical thinking, creativity, and problem-solving skills to thrive. The pace of change might outstrip our ability to retrain and reskill the workforce effectively.
+3.  **Economic Inequality:** Those with the skills to work *with* AI (the "AI haves") may see their wages increase significantly, while those whose jobs are automated or whose skills become obsolete (the "AI have-nots") could face stagnant wages or long-term unemployment, widening the wealth gap.
+4.  **Deskilling and Over-reliance:** As AI takes over more cognitive tasks, there's a risk that human workers could become "deskilled" or over-reliant on AI, potentially losing certain critical thinking or practical abilities over time.
+5.  **Ethical Concerns:**
+    *   **Bias:** AI models trained on biased data can perpetuate and even amplify societal inequalities.
+    *   **Surveillance:** AI-powered tools could be used for constant monitoring of employee performance, leading to privacy concerns and increased stress.
+    *   **Accountability:** Determining responsibility when AI makes errors or causes harm can be complex.
+    *   **Misinformation and Manipulation:** AI can generate highly realistic fake content, posing threats to truth, trust, and democratic processes.
+6.  **The "Hollowing Out" of the Middle Class:** Many middle-skill, middle-wage jobs are precisely those that are most susceptible to AI automation, potentially leading to a more polarized job market.
+7.  **Impact on Human Connection:** In sectors like customer service or caregiving, over-reliance on AI could diminish the human connection that is often vital to quality of service and well-being.
+
+---
+
+### Navigating the Future
+
+The reality will likely be a complex interplay of these forces. The future of work with AI isn't predetermined; it depends heavily on the choices we make today regarding policy, education, ethical frameworks, and investment.
+
+Key areas for focus include:
+
+*   **Education and Lifelong Learning:** Investing heavily in reskilling and upskilling programs.
+*   **Ethical AI Development:** Ensuring AI is developed and deployed responsibly, with human values at its core.
+*   **Social Safety Nets:** Exploring concepts like Universal Basic Income (UBI) or strengthened social services to cushion the impact of job displacement.
+*   **Policy and Regulation:** Developing frameworks to manage AI's impact on employment, data privacy, and ethical use.
+*   **Focus on Human-AI Collaboration:** Designing jobs and workflows where AI augments human capabilities rather than simply replacing them.
+
+In conclusion, your statement perfectly captures the duality of this technological revolution. AI has the potential to usher in an era of unprecedented prosperity and solve intractable problems, but it also demands a proactive and thoughtful approach to mitigate significant risks to our economic and social fabric.
+
+
+OPENAI RESULT:
+----------------------------------------
+The advancement of AI technology indeed presents a complex and multifaceted impact on the future of work. Here are some key considerations on both sides of the debate:
+
+**Exciting Aspects:**
+
+1. **Increased Efficiency and Productivity:** AI can automate repetitive and mundane tasks, leading to increased efficiency and allowing workers to focus on more complex and creative aspects of their jobs.
+
+2. **Innovation and New Opportunities:** AI technology fosters innovation, creating new industries, products, and services. This can lead to the emergence of new job categories and the need for new skill sets.
+
+3. **Enhanced Decision-Making:** AI and machine learning algorithms can analyze vast amounts of data quickly and accurately, providing insights that support better decision-making in various sectors.
+
+4. **Improved Customer Experience:** AI can personalize services and provide instant customer support, enhancing user satisfaction and engagement.
+
+5. **Health and Safety Improvements:** In industries like manufacturing and construction, AI-powered robots and systems can perform hazardous tasks, reducing the risk to human workers.
+
+**Concerning Aspects:**
+
+1. **Job Displacement:** Automation and AI could lead to the displacement of jobs that involve routine tasks. Workers in certain sectors may find their roles reduced or eliminated, leading to significant economic and social challenges.
+
+2. **Skill Gap:** The rapid advancement of AI requires new skills that current employees may not possess. This creates a growing need for retraining and upskilling the workforce, which may not happen quickly enough to meet demand.
+
+3. **Ethical and Privacy Concerns:** The use of AI raises concerns about data privacy, surveillance, and the ethical use of technology, particularly regarding decision-making processes that affect people's lives.
+
+4. **Economic Inequality:** There is potential for increased economic inequality as benefits and profits from AI could be concentrated among a small number of corporations or individuals with access to advanced technology.
+
+5. **Reliability and Bias:** AI systems are not infallible and can perpetuate or even exacerbate existing biases in data, leading to unfair outcomes.
+
+Balancing the benefits and challenges of AI's integration into the workforce will require careful planning, collaboration among stakeholders, proactive policy-making, and continuous adaptation to ensure that the transition benefits society as a whole.
+
+
+TOKENIZATION ANALYSIS:
+----------------------------------------
+tokenizer_config.json: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████| 48.0/48.0 [00:00<00:00, 317kB/s]
+D:\Dev\AI\buildables-ai-fellowship\week-01-llm-basics\assignments\myenv\Lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\User\.cache\huggingface\hub\models--bert-base-uncased. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+config.json: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 570/570 [00:00<00:00, 4.21MB/s]
+vocab.txt: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 232k/232k [00:00<00:00, 1.04MB/s]
+tokenizer.json: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████| 466k/466k [00:00<00:00, 2.12MB/s]
+Model: bert-base-uncased
+{'input_text': 'The advancement of AI technology is both exciting and concerning for the future of work.', 'model_name': 'bert-base-uncased', 'vocab_len_of_model': 30522, 'input_token_ids': [101, 1996, 12607, 1997, 9932, 2974, 2003, 2119, 10990, 1998, 7175, 2005, 1996, 2925, 1997, 2147, 1012, 102], 'input_token_ids_len': 18}        
+
+tokenizer_config.json: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████| 26.0/26.0 [00:00<00:00, 87.7kB/s]
+D:\Dev\AI\buildables-ai-fellowship\week-01-llm-basics\assignments\myenv\Lib\site-packages\huggingface_hub\file_download.py:143: UserWarning: `huggingface_hub` cache-system uses symlinks by default to efficiently store duplicated files but your machine does not support them in C:\Users\User\.cache\huggingface\hub\models--gpt2. Caching files will still work but in a degraded version that might require more space on your disk. This warning can be disabled by setting the `HF_HUB_DISABLE_SYMLINKS_WARNING` environment variable. For more details, see https://huggingface.co/docs/huggingface_hub/how-to-cache#limitations.
+To support symlinks on Windows, you either need to activate Developer Mode or to run Python as an administrator. In order to activate developer mode, see this article: https://docs.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development
+  warnings.warn(message)
+config.json: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 665/665 [00:00<00:00, 6.31MB/s]
+vocab.json: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.04M/1.04M [00:00<00:00, 1.57MB/s]
+merges.txt: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 456k/456k [00:00<00:00, 2.04MB/s]
+tokenizer.json: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████| 1.36M/1.36M [00:00<00:00, 1.66MB/s]
+Model: gpt2
+{'input_text': 'The advancement of AI technology is both exciting and concerning for the future of work.', 'model_name': 'gpt2', 'vocab_len_of_model': 50257, 'input_token_ids': [464, 27647, 286, 9552, 3037, 318, 1111, 7895, 290, 9305, 329, 262, 2003, 286, 670, 13], 'input_token_ids_len': 16}
+
+TOKEN USAGE COMPARISON:
+----------------------------------------
+GEMINI TOKENS:
+{'prompt_tokens': 17, 'completion_tokens': 1121, 'total_tokens': 2140}
+
+OPENAI TOKENS:
+{'prompt_token': 23, 'completion_token': 448, 'total_tokens': 471}
+
+Analysis completed
+
+
+ SUMMARIZATION COMPARISON
+----------------------------------------
+Comparing OpenAI and Gemini for SUMMARIZATION:
+============================================================
+
+SUMMARIZATION COMPARISON:
+
+GEMINI RESULT:
+----------------------------------------
+The advancement of AI technology presents a complex outlook for the future of work. This progress simultaneously sparks excitement for its potential benefits and raises concerns about its possible challenges.
+
+
+OPENAI RESULT:
+----------------------------------------
+AI technology is rapidly advancing, which brings both excitement and concerns regarding its impact on the future of work.
+
+
+TOKENIZATION ANALYSIS:
+----------------------------------------
+Model: bert-base-uncased
+{'input_text': 'Please provide a clear and concise summary of the following text. \nFocus on the main points and key information. Keep the summary between 2-3 sentences.\n\nText to summarize:\nThe advancement of AI technology is both exciting and concerning for the future of work.\n\nSummary:', 'model_name': 'bert-base-uncased', 'vocab_len_of_model': 30522, 'input_token_ids': [101, 3531, 3073, 1037, 3154, 1998, 9530, 18380, 12654, 1997, 1996, 2206, 3793, 1012, 3579, 2006, 1996, 2364, 2685, 1998, 3145, 2592, 1012, 2562, 1996, 12654, 2090, 1016, 1011, 1017, 11746, 1012, 3793, 2000, 7680, 7849, 4697, 1024, 1996, 12607, 1997, 9932, 2974, 2003, 2119, 10990, 1998, 7175, 2005, 1996, 2925, 1997, 2147, 1012, 12654, 1024, 102], 'input_token_ids_len': 57}
+
+Model: gpt2
+{'input_text': 'Please provide a clear and concise summary of the following text. \nFocus on the main points and key information. Keep the summary between 2-3 sentences.\n\nText to summarize:\nThe advancement of AI technology is both exciting and concerning for the future of work.\n\nSummary:', 'model_name': 'gpt2', 'vocab_len_of_model': 50257, 'input_token_ids': [5492, 2148, 257, 1598, 290, 35327, 10638, 286, 262, 1708, 2420, 13, 220, 198, 34888, 319, 262, 1388, 2173, 290, 1994, 1321, 13, 9175, 262, 10638, 1022, 362, 12, 18, 13439, 13, 198, 198, 8206, 284, 35743, 25, 198, 464, 27647, 286, 9552, 3037, 318, 1111, 7895, 290, 9305, 329, 262, 2003, 286, 670, 13, 198, 198, 22093, 25], 'input_token_ids_len': 59}
+
+TOKEN USAGE COMPARISON:
+----------------------------------------
+GEMINI TOKENS:
+{'prompt_tokens': 59, 'completion_tokens': 32, 'total_tokens': 473}
+
+OPENAI TOKENS:
+{'prompt_token': 61, 'completion_token': 21, 'total_tokens': 82}
+
+Analysis completed
+
+
+ SENTIMENT ANALYSIS COMPARISON
+----------------------------------------
+Comparing OpenAI and Gemini for SENTIMENT_ANALYSIS:
+============================================================
+
+SENTIMENT_ANALYSIS COMPARISON:
+
+GEMINI RESULT:
+----------------------------------------
+Sentiment: neutral
+Confidence Score: 0.9
+Reasoning: The text uses both positive (exciting) and negative (concerning) descriptors for the advancement of AI, indicating a balanced or mixed perspective rather than a leaning towards either positive or negative.
+
+
+OPENAI RESULT:
+----------------------------------------
+Sentiment: neutral
+Confidence Score: 0.7
+Reasoning: The text presents both positive ("exciting") and negative ("concerning") aspects of AI technology without leaning strongly in either direction. This balance results in a neutral overall sentiment.
+
+
+TOKENIZATION ANALYSIS:
+----------------------------------------
+Model: bert-base-uncased
+{'input_text': 'Analyze the sentiment of the following text. Provide your response in this exact format:\n\nSentiment: [positive/negative/neutral]\nConfidence Score: [0.0-1.0]\nReasoning: [Brief explanation of why you classified it this way]\n\nText to analyze:\n"The advancement of AI technology is both exciting and concerning for the future of work."\n\nAnalysis:', 'model_name': 'bert-base-uncased', 'vocab_len_of_model': 30522, 'input_token_ids': [101, 17908, 1996, 15792, 1997, 1996, 2206, 3793, 1012, 3073, 2115, 3433, 1999, 2023, 6635, 4289, 1024, 15792, 1024, 1031, 3893, 1013, 4997, 1013, 8699, 1033, 7023, 3556, 1024, 1031, 1014, 1012, 1014, 1011, 1015, 1012, 1014, 1033, 13384, 1024, 1031, 4766, 7526, 1997, 2339, 2017, 6219, 2009, 2023, 2126, 1033, 3793, 2000, 17908, 1024, 1000, 1996, 12607, 1997, 9932, 2974, 2003, 2119, 10990, 1998, 7175, 2005, 1996, 2925, 1997, 2147, 1012, 1000, 4106, 1024, 102], 'input_token_ids_len': 76}
+
+Model: gpt2
+{'input_text': 'Analyze the sentiment of the following text. Provide your response in this exact format:\n\nSentiment: [positive/negative/neutral]\nConfidence Score: [0.0-1.0]\nReasoning: [Brief explanation of why you classified it this way]\n\nText to analyze:\n"The advancement of AI technology is both exciting and concerning for the future of work."\n\nAnalysis:', 'model_name': 'gpt2', 'vocab_len_of_model': 50257, 'input_token_ids': [37702, 2736, 262, 15598, 286, 262, 1708, 2420, 13, 44290, 534, 2882, 287, 428, 2748, 5794, 25, 198, 198, 31837, 3681, 25, 685, 24561, 14, 31591, 14, 29797, 60, 198, 18546, 1704, 15178, 25, 685, 15, 13, 15, 12, 16, 13, 15, 60, 198, 45008, 278, 25, 685, 33, 3796, 7468, 286, 1521, 345, 10090, 340, 428, 835, 60, 198, 198, 8206, 284, 16602, 25, 198, 1, 464, 27647, 286, 9552, 3037, 318, 1111, 7895, 290, 9305, 329, 262, 2003, 286, 670, 526, 198, 198, 32750, 25], 'input_token_ids_len': 87}
+
+TOKEN USAGE COMPARISON:
+----------------------------------------
+GEMINI TOKENS:
+{'prompt_tokens': 81, 'completion_tokens': 53, 'total_tokens': 404}
+
+OPENAI TOKENS:
+{'prompt_token': 81, 'completion_token': 51, 'total_tokens': 132}
+
+Analysis completed
+
+
+ WRITING STYLE COMPARISON
+----------------------------------------
+Comparing OpenAI and Gemini for WRITING_STYLE:
+============================================================
+
+WRITING_STYLE COMPARISON:
+
+GEMINI RESULT:
+----------------------------------------
+Formality Level: Formal
+Complexity Score: 3
+Tone: Objective, analytical, cautious
+Voice: Active - 100%
+Sentence Structure: Simple
+Vocabulary Level: Intermediate
+Reading Level: 7th-8th grade
+Writing Purpose: Informative/Expository
+Target Audience: General public
+Literary Devices: None
+Punctuation Style: Standard
+Paragraph Structure: N/A (single sentence)
+
+Style Characteristics:
+- Sentence Length: 13 words
+- Word Choice: Sophisticated
+- Flow: Smooth
+- Clarity: Very clear
+
+
+OPENAI RESULT:
+----------------------------------------
+Formality Level: neutral
+Complexity Score: 3
+Tone: professional
+Voice: active - 100%
+Sentence Structure: simple
+Vocabulary Level: intermediate
+Reading Level: 8th grade
+Writing Purpose: informative
+Target Audience: general public
+Literary Devices: none
+Punctuation Style: minimal
+Paragraph Structure: short paragraphs - typical length
+
+Style Characteristics:
+- Sentence Length: 12 words per sentence
+- Word Choice: simple
+- Flow: smooth
+- Clarity: very clear
+
+Analysis:
+The text exhibits a neutral level of formality, suitable for both general audiences and professionals. The simplicity of the sentence, reflected in its straightforward structure and intermediate vocabulary, contributes to a low complexity score. The tone remains professional and balanced, highlighting both excitement and concern without expressing a strong bias. Active voice is used, ensuring directness and clarity, while the sentence structure is simple, promoting easy comprehension. Vocabulary is kept at an intermediate level, aligning with the informational purpose and making the content accessible for readers around an 8th-grade reading level. No literary devices are present, and punctuation is minimal, adhering to standard usage. The analysis indicates a concise and clear message designed to inform or raise awareness regarding AI technology's impact on the future of work, targeting a broad audience.
+
+
+TOKENIZATION ANALYSIS:
+----------------------------------------
+Model: bert-base-uncased
+{'input_text': 'Analyze the writing style of the following text comprehensively.\n\nText to analyze:\n"The advancement of AI technology is both exciting and concerning for the future of work."\n\nProvide your analysis in this exact format:\nFormality Level: [very formal/formal/neutral/informal/very informal]\nComplexity Score: [1-10, where 1 is very simple, 10 is very complex]\nTone: [professional, casual, academic, conversational, authoritative, etc.]\nVoice: [active/passive - percentage breakdown]\nSentence Structure: [simple/compound/complex - dominant type]\nVocabulary Level: [elementary/intermediate/advanced/expert]\nReading Level: [estimated grade level]\nWriting Purpose: [informative/persuasive/narrative/descriptive/expository]\nTarget Audience: [general public/experts/students/professionals]\nLiterary Devices: [metaphors, similes, alliteration, etc. if present]\nPunctuation Style: [minimal/standard/elaborate]\nParagraph Structure: [short/medium/long paragraphs - typical length]\n\nStyle Characteristics:\n- Sentence Length: [average words per sentence]\n- Word Choice: [simple/sophisticated/technical/colloquial]\n- Flow: [choppy/smooth/varied]\n- Clarity: [very clear/clear/unclear/confusing]\n\nAnalysis:', 'model_name': 'bert-base-uncased', 'vocab_len_of_model': 30522, 'input_token_ids': [101, 17908, 1996, 3015, 2806, 1997, 1996, 2206, 3793, 7721, 2135, 1012, 3793, 2000, 17908, 1024, 1000, 1996, 12607, 1997, 9932, 2974, 2003, 2119, 10990, 1998, 7175, 2005, 1996, 2925, 1997, 2147, 1012, 1000, 3073, 2115, 4106, 1999, 2023, 6635, 4289, 1024, 5337, 3012, 2504, 1024, 1031, 2200, 5337, 1013, 5337, 1013, 8699, 1013, 11900, 1013, 2200, 11900, 1033, 11619, 3556, 1024, 1031, 1015, 1011, 2184, 1010, 2073, 1015, 2003, 2200, 3722, 1010, 2184, 2003, 2200, 3375, 1033, 4309, 1024, 1031, 2658, 1010, 10017, 1010, 3834, 1010, 4512, 2389, 1010, 23949, 1010, 4385, 1012, 1033, 2376, 1024, 1031, 3161, 1013, 13135, 1011, 7017, 12554, 1033, 6251, 3252, 1024, 1031, 3722, 1013, 7328, 1013, 3375, 1011, 7444, 2828, 1033, 16188, 2504, 1024, 1031, 4732, 1013, 7783, 1013, 3935, 1013, 6739, 1033, 3752, 2504, 1024, 1031, 4358, 3694, 2504, 1033, 3015, 3800, 1024, 1031, 12367, 8082, 1013, 2566, 6342, 21369, 3726, 1013, 7984, 1013, 22726, 1013, 16258, 28307, 2100, 1033, 4539, 4378, 1024, 1031, 2236, 2270, 1013, 8519, 1013, 2493, 1013, 8390, 1033, 4706, 5733, 1024, 1031, 19240, 2015, 1010, 28684, 4244, 1010, 2035, 21646, 3370, 1010, 4385, 1012, 2065, 2556, 1033, 26136, 6593, 14505, 2806, 1024, 1031, 10124, 1013, 3115, 1013, 9603, 1033, 20423, 3252, 1024, 1031, 2460, 1013, 5396, 1013, 2146, 20423, 2015, 1011, 5171, 3091, 1033, 2806, 6459, 1024, 1011, 6251, 3091, 1024, 1031, 2779, 2616, 2566, 6251, 1033, 1011, 2773, 3601, 1024, 1031, 3722, 1013, 12138, 1013, 4087, 1013, 8902, 4135, 15549, 2389, 1033, 1011, 4834, 1024, 1031, 24494, 7685, 1013, 5744, 1013, 9426, 1033, 1011, 15563, 1024, 1031, 2200, 3154, 1013, 3154, 1013, 10599, 1013, 16801, 1033, 4106, 1024, 102], 'input_token_ids_len': 273}
+
+Model: gpt2
+{'input_text': 'Analyze the writing style of the following text comprehensively.\n\nText to analyze:\n"The advancement of AI technology is both exciting and concerning for the future of work."\n\nProvide your analysis in this exact format:\nFormality Level: [very formal/formal/neutral/informal/very informal]\nComplexity Score: [1-10, where 1 is very simple, 10 is very complex]\nTone: [professional, casual, academic, conversational, authoritative, etc.]\nVoice: [active/passive - percentage breakdown]\nSentence Structure: [simple/compound/complex - dominant type]\nVocabulary Level: [elementary/intermediate/advanced/expert]\nReading Level: [estimated grade level]\nWriting Purpose: [informative/persuasive/narrative/descriptive/expository]\nTarget Audience: [general public/experts/students/professionals]\nLiterary Devices: [metaphors, similes, alliteration, etc. if present]\nPunctuation Style: [minimal/standard/elaborate]\nParagraph Structure: [short/medium/long paragraphs - typical length]\n\nStyle Characteristics:\n- Sentence Length: [average words per sentence]\n- Word Choice: [simple/sophisticated/technical/colloquial]\n- Flow: [choppy/smooth/varied]\n- Clarity: [very clear/clear/unclear/confusing]\n\nAnalysis:', 'model_name': 'gpt2', 'vocab_len_of_model': 50257, 'input_token_ids': [37702, 2736, 262, 3597, 3918, 286, 262, 1708, 2420, 8569, 2280, 13, 198, 198, 8206, 284, 16602, 25, 198, 1, 464, 27647, 286, 9552, 3037, 318, 1111, 7895, 290, 9305, 329, 262, 2003, 286, 670, 526, 198, 198, 15946, 485, 534, 3781, 287, 428, 2748, 5794, 25, 198, 8479, 1483, 5684, 25, 685, 548, 8766, 14, 687, 282, 14, 29797, 14, 259, 687, 282, 14, 548, 22176, 60, 198, 5377, 11141, 414, 15178, 25, 685, 16, 12, 940, 11, 810, 352, 318, 845, 2829, 11, 838, 318, 845, 3716, 60, 198, 51, 505, 25, 685, 33163, 11, 9341, 11, 8233, 11, 3453, 864, 11, 32042, 11, 3503, 8183, 198, 35708, 25, 685, 5275, 14, 6603, 425, 532, 5873, 14608, 60, 198, 31837, 594, 32522, 25, 685, 36439, 14, 5589, 633, 14, 41887, 532, 11410, 2099, 60, 198, 53, 420, 22528, 5684, 25, 685, 30854, 560, 14, 3849, 13857, 14, 32225, 2903, 14, 1069, 11766, 60, 198, 36120, 5684, 25, 685, 395, 15655, 9559, 1241, 60, 198, 33874, 32039, 25, 685, 259, 687, 876, 14, 19276, 84, 17443, 14, 77, 3258, 876, 14, 20147, 1968, 425, 14, 1069, 1930, 37765, 60, 198, 21745, 7591, 1240, 25, 685, 24622, 1171, 14, 23100, 912, 14, 19149, 658, 14, 5577, 2521, 874, 60, 198, 43460, 560, 29362, 25, 685, 4164, 6570, 669, 11, 985, 2915, 11, 477, 2676, 341, 11, 3503, 13, 611, 1944, 60, 198, 47, 16260, 2288, 17738, 25, 685, 1084, 4402, 14, 20307, 14, 417, 4820, 378, 60, 198, 10044, 6111, 32522, 25, 685, 19509, 14, 24132, 14, 6511, 23549, 532, 7226, 4129, 60, 198, 198, 21466, 15684, 3969, 25, 198, 12, 11352, 594, 22313, 25, 685, 23913, 2456, 583, 6827, 60, 198, 12, 9678, 18502, 25, 685, 36439, 14, 82, 2522, 2569, 515, 14, 47944, 14, 66, 15578, 421, 498, 60, 198, 12, 27782, 25, 685, 6679, 14097, 14, 5796, 5226, 14, 7785, 798, 60, 198, 12, 1012, 6806, 25, 685, 548, 1598, 14, 20063, 14, 403, 20063, 14, 10414, 3500, 60, 198, 198, 32750, 25], 'input_token_ids_len': 336}
+
+TOKEN USAGE COMPARISON:
+----------------------------------------
+GEMINI TOKENS:
+{'prompt_tokens': 299, 'completion_tokens': 120, 'total_tokens': 1181}
+
+OPENAI TOKENS:
+{'prompt_token': 281, 'completion_token': 265, 'total_tokens': 546}
+
+Analysis completed
+
+
+ LANGUAGE DETECTION COMPARISON
+----------------------------------------
+Comparing OpenAI and Gemini for LANGUAGE_DETECTION:
+============================================================
+
+LANGUAGE_DETECTION COMPARISON:
+
+GEMINI RESULT:
+----------------------------------------
+Primary Language: English
+Language Code: en
+Confidence: 1.0
+Secondary Languages: None
+Script Type: Latin
+Text Direction: Left-to-right
+Cultural Context: Standard General English. No specific regional dialect or variation is evident.
+Translation Needed: No
+
+
+OPENAI RESULT:
+----------------------------------------
+Primary Language: English
+Language Code: en
+Confidence: 1.0
+Secondary Languages: None
+Script Type: Latin
+Text Direction: Left-to-right
+Cultural Context: This text uses standard contemporary English, likely intended for a global audience interested in technology and the future of work. There's no indication of regional dialect or variation, suggesting a general, international context.
+Translation Needed: No
+
+Analysis: The text is in English, which is evident from the vocabulary and structure. Words like "advancement," "technology," "exciting," and "concerning" are characteristic of modern English, particularly in discussions related to technology and its impact. There is no presence of words or grammatical structures from other languages, indicating that this is solely an English text with no code-switching or borrowing from other languages. The script used is Latin, which is standard for English. The text is straightforward, with a universal theme that does not suggest any specific regional English variation.
+
+
+TOKENIZATION ANALYSIS:
+----------------------------------------
+Model: bert-base-uncased
+{'input_text': 'Analyze the following text and detect its language. Provide detailed language analysis.\n\nText to analyze:\n"The advancement of AI technology is both exciting and concerning for the future of work."\n\nProvide your response in this exact format:\nPrimary Language: [language name]\nLanguage Code: [ISO 639-1 code]\nConfidence: [0.0-1.0]\nSecondary Languages: [if any mixed languages detected]\nScript Type: [Latin, Cyrillic, Arabic, etc.]\nText Direction: [Left-to-right, Right-to-left]\nCultural Context: [Brief note about regional dialect or variation if applicable]\nTranslation Needed: [Yes/No - if text contains non-English content]\n\nAnalysis:', 'model_name': 'bert-base-uncased', 'vocab_len_of_model': 30522, 'input_token_ids': [101, 17908, 1996, 2206, 3793, 1998, 11487, 2049, 2653, 1012, 3073, 6851, 2653, 4106, 1012, 3793, 2000, 17908, 1024, 1000, 1996, 12607, 1997, 9932, 2974, 2003, 2119, 10990, 1998, 7175, 2005, 1996, 2925, 1997, 2147, 1012, 1000, 3073, 2115, 3433, 1999, 2023, 6635, 4289, 1024, 3078, 2653, 1024, 1031, 2653, 2171, 1033, 2653, 3642, 1024, 1031, 11163, 6191, 2683, 1011, 1015, 3642, 1033, 7023, 1024, 1031, 1014, 1012, 1014, 1011, 1015, 1012, 1014, 1033, 3905, 4155, 1024, 1031, 2065, 2151, 3816, 4155, 11156, 1033, 5896, 2828, 1024, 1031, 3763, 1010, 15522, 1010, 5640, 1010, 4385, 1012, 1033, 3793, 3257, 1024, 1031, 2187, 1011, 2000, 1011, 2157, 1010, 2157, 1011, 2000, 1011, 2187, 1033, 3451, 6123, 1024, 1031, 4766, 3602, 2055, 3164, 9329, 2030, 8386, 2065, 12711, 1033, 5449, 2734, 1024, 1031, 2748, 1013, 2053, 1011, 2065, 3793, 3397, 2512, 1011, 2394, 4180, 1033, 4106, 1024, 102], 'input_token_ids_len': 146}     
+
+Model: gpt2
+{'input_text': 'Analyze the following text and detect its language. Provide detailed language analysis.\n\nText to analyze:\n"The advancement of AI technology is both exciting and concerning for the future of work."\n\nProvide your response in this exact format:\nPrimary Language: [language name]\nLanguage Code: [ISO 639-1 code]\nConfidence: [0.0-1.0]\nSecondary Languages: [if any mixed languages detected]\nScript Type: [Latin, Cyrillic, Arabic, etc.]\nText Direction: [Left-to-right, Right-to-left]\nCultural Context: [Brief note about regional dialect or variation if applicable]\nTranslation Needed: [Yes/No - if text contains non-English content]\n\nAnalysis:', 'model_name': 'gpt2', 'vocab_len_of_model': 50257, 'input_token_ids': [37702, 2736, 262, 1708, 2420, 290, 4886, 663, 3303, 13, 44290, 6496, 3303, 3781, 13, 198, 198, 8206, 284, 16602, 25, 198, 1, 464, 27647, 286, 9552, 3037, 318, 1111, 7895, 290, 9305, 329, 262, 2003, 286, 670, 526, 198, 198, 15946, 485, 534, 2882, 287, 428, 2748, 5794, 25, 198, 35170, 15417, 25, 685, 16129, 1438, 60, 198, 32065, 6127, 25, 685, 40734, 718, 2670, 12, 16, 2438, 60, 198, 18546, 1704, 25, 685, 15, 13, 15, 12, 16, 13, 15, 60, 198, 12211, 560, 42860, 25, 685, 361, 597, 7668, 8950, 12326, 60, 198, 7391, 5994, 25, 685, 49022, 11, 40399, 359, 291, 11, 17526, 11, 3503, 8183, 198, 8206, 41837, 25, 685, 18819, 12, 1462, 12, 3506, 11, 6498, 12, 1462, 12, 9464, 60, 198, 34, 8596, 30532, 25, 685, 33, 3796, 3465, 546, 7915, 23637, 393, 12291, 611, 9723, 60, 198, 48313, 10664, 276, 25, 685, 5297, 14, 2949, 532, 611, 2420, 4909, 1729, 12, 15823, 2695, 60, 198, 198, 32750, 25], 'input_token_ids_len': 166}
+
+TOKEN USAGE COMPARISON:
+----------------------------------------
+GEMINI TOKENS:
+{'prompt_tokens': 159, 'completion_tokens': 57, 'total_tokens': 431}
+
+OPENAI TOKENS:
+{'prompt_token': 145, 'completion_token': 196, 'total_tokens': 341}
+
+Analysis completed
+
+
+ TEXT STATISTICS COMPARISON
+----------------------------------------
+Comparing OpenAI and Gemini for TEXT_STATISTICS:
+============================================================
+
+TEXT_STATISTICS COMPARISON:
+
+GEMINI RESULT:
+----------------------------------------
+BASIC STATISTICS:
+Word Count: 15
+Character Count: 85
+Character Count (no spaces): 71
+Sentence Count: 1
+Paragraph Count: 1
+Average Words per Sentence: 15.0
+Average Characters per Word: 4.73
+
+READABILITY SCORES:
+Flesch Reading Ease: 45.1 (Fairly difficult to read, typical for college-level text)
+Flesch-Kincaid Grade Level: 10.7
+Estimated Reading Time: 0 minutes 4 seconds
+Complexity Rating: Complex
+
+VOCABULARY ANALYSIS:
+Unique Words: 13
+Vocabulary Richness: 0.87
+Most Frequent Words: The (2), of (2), AI (1), advancement (1), and (1)
+Long Words (7+ chars): 4 (26.67%)
+Short Words (1-3 chars): 8 (53.33%)
+
+STRUCTURAL ANALYSIS:
+Longest Sentence: 15 words
+Shortest Sentence: 15 words
+Average Paragraph Length: 1.0 sentences per paragraph
+Text Density: 15 words per paragraph
+
+LINGUISTIC FEATURES:
+Question Marks: 0
+Exclamation Points: 0
+Numbers/Digits: 0
+Capitalized Words: 1
+
+
+OPENAI RESULT:
+----------------------------------------
+BASIC STATISTICS:
+Word Count: 14
+Character Count: 77
+Character Count (no spaces): 63
+Sentence Count: 1
+Paragraph Count: 1
+Average Words per Sentence: 14.0
+Average Characters per Word: 4.5
+
+READABILITY SCORES:
+Flesch Reading Ease: 49.3 (Fairly Difficult)
+Flesch-Kincaid Grade Level: 10.4
+Estimated Reading Time: 6 seconds
+Complexity Rating: Moderate
+
+VOCABULARY ANALYSIS:
+Unique Words: 13
+Vocabulary Richness: 0.929
+Most Frequent Words: advancement, AI, technology, exciting, concerning (each appears once)
+Long Words (7+ chars): 3 (21.4%)
+Short Words (1-3 chars): 4 (28.6%)
+
+STRUCTURAL ANALYSIS:
+Longest Sentence: 14 words
+Shortest Sentence: 14 words
+Average Paragraph Length: 1 sentence per paragraph
+Text Density: 14 words per paragraph
+
+LINGUISTIC FEATURES:
+Question Marks: 0
+Exclamation Points: 0
+Numbers/Digits: 0
+Capitalized Words: 2 (excluding sentence starts)
+
+Analysis: The text is a single-sentence paragraph with moderate complexity, suitable for readers at a high school level. Vocabulary richness is high given the number of unique words, but does not include frequent repetition. While it contains no special punctuation or numbers, the topic addressed suggests sophistication and relevance to advanced discussions on technology and its implications.
+
+
+TOKENIZATION ANALYSIS:
+----------------------------------------
+Model: bert-base-uncased
+{'input_text': 'Analyze the following text and provide comprehensive statistics and readability scores.\n\nText to analyze:\n"The advancement of AI technology is both exciting and concerning for the future of work."\n\nProvide your analysis in this exact format:\nBASIC STATISTICS:\nWord Count: [total words]\nCharacter Count: [with spaces]\nCharacter Count (no spaces): [without spaces]\nSentence Count: [total sentences]\nParagraph Count: [total paragraphs]\nAverage Words per Sentence: [calculated average]\nAverage Characters per Word: [calculated average]\n\nREADABILITY SCORES:\nFlesch Reading Ease: [0-100 scale with interpretation]\nFlesch-Kincaid Grade Level: [grade level]\nEstimated Reading Time: [minutes and seconds]\nComplexity Rating: [simple/moderate/complex/very complex]\n\nVOCABULARY ANALYSIS:\nUnique Words: [count of unique words]\nVocabulary Richness: [unique words / total words ratio]\nMost Frequent Words: [top 5 words with frequency]\nLong Words (7+ chars): [count and percentage]\nShort Words (1-3 chars): [count and percentage]\n\nSTRUCTURAL ANALYSIS:\nLongest Sentence: [word count]\nShortest Sentence: [word count]\nAverage Paragraph Length: [sentences per paragraph]\nText Density: [words per paragraph]\n\nLINGUISTIC FEATURES:\nQuestion Marks: [count]\nExclamation Points: [count]\nNumbers/Digits: [count]\nCapitalized Words: [count excluding sentence starts]\n\nAnalysis:', 'model_name': 'bert-base-uncased', 'vocab_len_of_model': 30522, 'input_token_ids': [101, 17908, 1996, 2206, 3793, 1998, 3073, 7721, 6747, 1998, 3191, 8010, 7644, 1012, 3793, 2000, 17908, 1024, 1000, 1996, 12607, 1997, 9932, 2974, 2003, 2119, 10990, 1998, 7175, 2005, 1996, 2925, 1997, 2147, 1012, 1000, 3073, 2115, 4106, 1999, 2023, 6635, 4289, 1024, 3937, 6747, 1024, 2773, 4175, 1024, 1031, 2561, 2616, 1033, 2839, 4175, 1024, 1031, 2007, 7258, 1033, 2839, 4175, 1006, 2053, 7258, 1007, 1024, 1031, 2302, 7258, 1033, 6251, 4175, 1024, 1031, 2561, 11746, 1033, 20423, 4175, 1024, 1031, 2561, 20423, 2015, 1033, 2779, 2616, 2566, 6251, 1024, 1031, 10174, 2779, 1033, 2779, 3494, 2566, 2773, 1024, 1031, 10174, 2779, 1033, 3191, 8010, 7644, 1024, 13109, 2229, 2818, 3752, 7496, 1024, 1031, 1014, 1011, 2531, 4094, 2007, 7613, 1033, 13109, 2229, 2818, 1011, 24510, 3694, 2504, 1024, 1031, 3694, 2504, 1033, 4358, 3752, 2051, 1024, 1031, 2781, 1998, 3823, 1033, 11619, 5790, 1024, 1031, 3722, 1013, 8777, 1013, 3375, 1013, 2200, 3375, 1033, 16188, 4106, 1024, 4310, 2616, 1024, 1031, 4175, 1997, 4310, 2616, 1033, 16188, 4138, 2791, 1024, 1031, 4310, 2616, 1013, 2561, 2616, 6463, 1033, 2087, 6976, 2616, 1024, 1031, 2327, 1019, 2616, 2007, 6075, 1033, 2146, 2616, 1006, 1021, 1009, 25869, 2015, 1007, 1024, 1031, 4175, 1998, 7017, 1033, 2460, 2616, 1006, 1015, 1011, 1017, 25869, 2015, 1007, 1024, 1031, 4175, 1998, 7017, 1033, 8332, 4106, 1024, 6493, 6251, 1024, 1031, 2773, 4175, 1033, 20047, 6251, 1024, 1031, 2773, 4175, 1033, 2779, 20423, 3091, 1024, 1031, 11746, 2566, 20423, 1033, 3793, 4304, 1024, 1031, 2616, 2566, 20423, 1033, 12158, 2838, 1024, 3160, 6017, 1024, 1031, 4175, 1033, 4654, 20464, 8067, 3508, 2685, 1024, 1031, 4175, 1033, 3616, 1013, 16648, 1024, 1031, 4175, 1033, 3007, 3550, 2616, 1024, 1031, 4175, 13343, 6251, 4627, 1033, 4106, 1024, 102], 'input_token_ids_len': 293}
+
+Model: gpt2
+{'input_text': 'Analyze the following text and provide comprehensive statistics and readability scores.\n\nText to analyze:\n"The advancement of AI technology is both exciting and concerning for the future of work."\n\nProvide your analysis in this exact format:\nBASIC STATISTICS:\nWord Count: [total words]\nCharacter Count: [with spaces]\nCharacter Count (no spaces): [without spaces]\nSentence Count: [total sentences]\nParagraph Count: [total paragraphs]\nAverage Words per Sentence: [calculated average]\nAverage Characters per Word: [calculated average]\n\nREADABILITY SCORES:\nFlesch Reading Ease: [0-100 scale with interpretation]\nFlesch-Kincaid Grade Level: [grade level]\nEstimated Reading Time: [minutes and seconds]\nComplexity Rating: [simple/moderate/complex/very complex]\n\nVOCABULARY ANALYSIS:\nUnique Words: [count of unique words]\nVocabulary Richness: [unique words / total words ratio]\nMost Frequent Words: [top 5 words with frequency]\nLong Words (7+ chars): [count and percentage]\nShort Words (1-3 chars): [count and percentage]\n\nSTRUCTURAL ANALYSIS:\nLongest Sentence: [word count]\nShortest Sentence: [word count]\nAverage Paragraph Length: [sentences per paragraph]\nText Density: [words per paragraph]\n\nLINGUISTIC FEATURES:\nQuestion Marks: [count]\nExclamation Points: [count]\nNumbers/Digits: [count]\nCapitalized Words: [count excluding sentence starts]\n\nAnalysis:', 'model_name': 'gpt2', 'vocab_len_of_model': 50257, 'input_token_ids': [37702, 2736, 262, 1708, 2420, 290, 2148, 9815, 7869, 290, 1100, 1799, 8198, 13, 198, 198, 8206, 284, 16602, 25, 198, 1, 464, 27647, 286, 9552, 3037, 318, 1111, 7895, 290, 9305, 329, 262, 2003, 286, 670, 526, 198, 198, 15946, 485, 534, 3781, 287, 428, 2748, 5794, 25, 198, 33, 1921, 2149, 15486, 8808, 19505, 25, 198, 26449, 2764, 25, 685, 23350, 2456, 60, 198, 27275, 2764, 25, 685, 4480, 9029, 60, 198, 27275, 2764, 357, 3919, 9029, 2599, 685, 19419, 9029, 60, 198, 31837, 594, 2764, 25, 685, 23350, 13439, 60, 198, 10044, 6111, 2764, 25, 685, 23350, 23549, 60, 198, 26287, 23087, 583, 11352, 594, 25, 685, 9948, 49262, 2811, 60, 198, 26287, 26813, 583, 9678, 25, 685, 9948, 49262, 2811, 60, 198, 198, 15675, 32, 25382, 6374, 1581, 1546, 25, 198, 37, 829, 354, 11725, 412, 589, 25, 685, 15, 12, 3064, 5046, 351, 10794, 60, 198, 37, 829, 354, 12, 42, 1939, 1698, 22653, 5684, 25, 685, 9526, 1241, 60, 198, 22362, 15655, 11725, 3862, 25, 685, 1084, 1769, 290, 4201, 60, 198, 5377, 11141, 414, 12028, 25, 685, 36439, 14, 47189, 14, 41887, 14, 548, 3716, 60, 198, 198, 53, 4503, 6242, 6239, 13153, 3537, 1847, 16309, 1797, 25, 198, 40257, 23087, 25, 685, 9127, 286, 3748, 2456, 60, 198, 53, 420, 22528, 3998, 1108, 25, 685, 34642, 2456, 1220, 2472, 2456, 8064, 60, 198, 6943, 22192, 298, 23087, 25, 685, 4852, 642, 2456, 351, 8373, 60, 198, 14617, 23087, 357, 22, 10, 34534, 2599, 685, 9127, 290, 5873, 60, 198, 16438, 23087, 357, 16, 12, 18, 34534, 2599, 685, 9127, 290, 5873, 60, 198, 198, 46126, 4261, 1847, 3537, 1847, 16309, 1797, 25, 198, 14617, 395, 11352, 594, 25, 685, 4775, 954, 60, 198, 16438, 395, 11352, 594, 25, 685, 4775, 954, 60, 198, 26287, 2547, 6111, 22313, 25, 685, 34086, 3007, 583, 7322, 60, 198, 8206, 360, 6377, 25, 685, 10879, 583, 7322, 60, 198, 198, 43, 2751, 52, 8808, 2149, 18630, 47471, 25, 198, 24361, 27366, 25, 685, 9127, 60, 198, 3109, 20931, 11045, 25, 685, 9127, 60, 198, 49601, 14, 19511, 896, 25, 685, 9127, 60, 198, 39315, 1143, 23087, 25, 685, 9127, 23494, 6827, 4940, 60, 198, 198, 32750, 25], 'input_token_ids_len': 371}
+
+TOKEN USAGE COMPARISON:
+----------------------------------------
+GEMINI TOKENS:
+{'prompt_tokens': 329, 'completion_tokens': 287, 'total_tokens': 3241}
+
+OPENAI TOKENS:
+{'prompt_token': 306, 'completion_token': 326, 'total_tokens': 632}
+
+Analysis completed
+
+
+ COMPREHENSIVE COMPARISON
+----------------------------------------
+Comparing OpenAI and Gemini for COMPREHENSIVE:
+============================================================
+
+COMPREHENSIVE COMPARISON:
+
+GEMINI RESULT:
+----------------------------------------
+=== LANGUAGE & DETECTION ===
+Primary Language: English
+Confidence: 1.0
+Mixed Languages: N/A
+
+=== SENTIMENT ANALYSIS ===
+Overall Sentiment: Mixed
+Sentiment Score: 0.0 (Due to explicit balance of positive and negative)
+Emotional Tone: Excitement, anticipation, apprehension, concern, cautious optimism
+Intensity: Medium
+
+=== WRITING STYLE ===
+Formality Level: Formal
+Complexity: 2/10 (Grammatically simple, conceptually moderate)
+Tone: Objective, balanced, analytical, contemplative
+Target Audience: General public, policy makers, industry leaders, academics, anyone interested in technology's societal impact.
+
+=== TEXT STATISTICS ===
+Word Count: 17
+Readability Level: Approximately Grade 7-8 (Though syntactically simple, the vocabulary and conceptual density elevate it slightly from a basic sentence)
+Vocabulary Richness: Moderate (Precise terms like "advancement," "technology," "concerning," "future of work")
+Sentence Complexity: Simple (Single independent clause)
+
+=== KEY INSIGHTS ===
+Main Themes: Dual impact of AI, the future of employment/labor, technological progress vs. societal concerns.
+Notable Features:
+*   Conciseness: Conveys a complex idea in a very brief statement.
+*   Duality: Explicitly acknowledges both positive ("exciting") and negative ("concerning") aspects.
+*   Thesis Statement Quality: Acts as a strong opening or summary statement for a larger discussion.
+Recommendations:
+*   To elaborate, the text could be followed by specific examples of both exciting advancements and concerning implications.
+*   It could introduce a call to action or a question for further exploration.
+Use Cases:
+*   Thesis statement for an essay or report on AI's impact.
+*   Opening line for a speech or presentation.
+*   Headline for a news article or opinion piece.
+*   A concise summary of a complex debate.
+*   Social media post to spark discussion.
+
+=== SUMMARY SCORE ===
+Overall Quality: 8/10 (Excellent for its purpose as a concise, balanced statement)
+Clarity: 10/10 (Extremely clear and unambiguous)
+Engagement: 7/10 (Thought-provoking due to the stated duality, inviting further consideration)
+Effectiveness: 9/10 (Highly effective at succinctly introducing a significant and complex topic with a balanced perspective)
+
+
+OPENAI RESULT:
+----------------------------------------
+=== LANGUAGE & DETECTION ===
+Primary Language: English
+Confidence: 0.99
+Mixed Languages: None
+
+=== SENTIMENT ANALYSIS ===
+Overall Sentiment: Mixed
+Sentiment Score: 0.0 (neutral balance between positive and negative aspects)
+Emotional Tone: Excitement, concern
+Intensity: Medium
+
+=== WRITING STYLE ===
+Formality Level: Semi-formal
+Complexity: 3/10
+Tone: Balanced, Objective
+Target Audience: General audience interested in technology and employment trends
+
+=== TEXT STATISTICS ===
+Word Count: 13
+Readability Level: Approximately 8th grade
+Vocabulary Richness: Moderate, using common vocabulary with specific jargon related to AI
+Sentence Complexity: Simple
+
+=== KEY INSIGHTS ===
+Main Themes:
+1. Technological advancement
+2. Implications for the future of work
+
+Notable Features:
+- Conciseness and clarity in presenting both the excitement and concerns around AI
+- Balanced perspective without leaning heavily towards optimism or pessimism
+
+Recommendations:
+- For more depth, the text could expand on specific areas of concern and excitement within AI technology
+
+Use Cases:
+- Effective for headlines in articles, introductory sentences in discussions about AI, or concise statements in presentations
+
+=== SUMMARY SCORE ===
+Overall Quality: 7/10
+Clarity: 9/10
+Engagement: 6/10
+Effectiveness: 8/10
+
+Analysis:
+The text succinctly captures a dual sentiment about the progression of AI technology. It is crafted in a simple and understandable manner, suitable for a broad audience. The sentence maintains a balanced view, presenting both excitement and concerns without favoring one side. While it effectively introduces the topic, further elaboration could be beneficial for more comprehensive discussions. Overall, the text is clear and effective for engaging an audience interested in technology's impact on future employment scenarios.
+
+
+TOKENIZATION ANALYSIS:
+----------------------------------------
+Model: bert-base-uncased
+{'input_text': 'Perform a comprehensive analysis of the following text, combining multiple analytical approaches.\n\nText to analyze:\n"The advancement of AI technology is both exciting and concerning for the future of work."\n\nProvide complete analysis in this structured format:\n\n=== LANGUAGE & DETECTION ===\nPrimary Language: [detected language]\nConfidence: [0.0-1.0]\nMixed Languages: [if applicable]\n\n=== SENTIMENT ANALYSIS ===\nOverall Sentiment: [positive/negative/neutral/mixed]\nSentiment Score: [-1.0 to 1.0]\nEmotional Tone: [specific emotions detected]\nIntensity: [low/medium/high]\n\n=== WRITING STYLE ===\nFormality Level: [formal/informal scale]\nComplexity: [1-10 scale]\nTone: [professional, casual, academic, etc.]\nTarget Audience: [estimated audience]\n\n=== TEXT STATISTICS ===\nWord Count: [count]\nReadability Level: [grade level]\nVocabulary Richness: [assessment]\nSentence Complexity: [simple/complex]\n\n=== KEY INSIGHTS ===\nMain Themes: [2-3 key themes identified]\nNotable Features: [unique characteristics]\nRecommendations: [suggestions for improvement if applicable]\nUse Cases: [where this text would be most effective]\n\n=== SUMMARY SCORE ===\nOverall Quality: [1-10 scale]\nClarity: [1-10 scale]\nEngagement: [1-10 scale]\nEffectiveness: [1-10 scale]\n\nAnalysis:', 'model_name': 'bert-base-uncased', 'vocab_len_of_model': 30522, 'input_token_ids': [101, 4685, 1037, 7721, 4106, 1997, 1996, 2206, 3793, 1010, 11566, 3674, 17826, 8107, 1012, 3793, 2000, 17908, 1024, 1000, 1996, 12607, 1997, 9932, 2974, 2003, 2119, 10990, 1998, 7175, 2005, 1996, 2925, 1997, 2147, 1012, 1000, 3073, 3143, 4106, 1999, 2023, 14336, 4289, 1024, 1027, 1027, 1027, 2653, 1004, 10788, 1027, 1027, 1027, 3078, 2653, 1024, 1031, 11156, 2653, 1033, 7023, 1024, 1031, 1014, 1012, 1014, 1011, 1015, 1012, 1014, 1033, 3816, 4155, 1024, 1031, 2065, 12711, 1033, 1027, 1027, 1027, 15792, 4106, 1027, 1027, 1027, 3452, 15792, 1024, 1031, 3893, 1013, 4997, 1013, 8699, 1013, 3816, 1033, 15792, 3556, 1024, 1031, 1011, 1015, 1012, 1014, 2000, 1015, 1012, 1014, 1033, 6832, 4309, 1024, 1031, 3563, 6699, 11156, 1033, 8015, 1024, 1031, 2659, 1013, 5396, 1013, 2152, 1033, 1027, 1027, 1027, 3015, 2806, 1027, 1027, 1027, 5337, 3012, 2504, 1024, 1031, 5337, 1013, 11900, 4094, 1033, 11619, 1024, 1031, 1015, 1011, 2184, 4094, 1033, 4309, 1024, 1031, 2658, 1010, 10017, 1010, 3834, 1010, 4385, 1012, 1033, 4539, 4378, 1024, 1031, 4358, 4378, 1033, 1027, 1027, 1027, 3793, 6747, 1027, 1027, 1027, 2773, 4175, 1024, 1031, 4175, 1033, 3191, 8010, 2504, 1024, 1031, 3694, 2504, 1033, 16188, 4138, 2791, 1024, 1031, 7667, 1033, 6251, 11619, 1024, 1031, 3722, 1013, 3375, 1033, 1027, 1027, 1027, 3145, 20062, 1027, 1027, 1027, 2364, 6991, 1024, 1031, 1016, 1011, 1017, 3145, 6991, 4453, 1033, 3862, 2838, 1024, 1031, 4310, 6459, 1033, 11433, 1024, 1031, 15690, 2005, 7620, 2065, 12711, 1033, 2224, 3572, 1024, 1031, 2073, 2023, 3793, 2052, 2022, 2087, 4621, 1033, 1027, 1027, 1027, 12654, 3556, 1027, 1027, 1027, 3452, 3737, 1024, 1031, 1015, 1011, 2184, 4094, 1033, 15563, 1024, 1031, 1015, 1011, 2184, 4094, 1033, 8147, 1024, 1031, 1015, 1011, 2184, 4094, 1033, 12353, 1024, 1031, 1015, 1011, 2184, 4094, 1033, 4106, 1024, 102], 'input_token_ids_len': 302}
+
+Model: gpt2
+{'input_text': 'Perform a comprehensive analysis of the following text, combining multiple analytical approaches.\n\nText to analyze:\n"The advancement of AI technology is both exciting and concerning for the future of work."\n\nProvide complete analysis in this structured format:\n\n=== LANGUAGE & DETECTION ===\nPrimary Language: [detected language]\nConfidence: [0.0-1.0]\nMixed Languages: [if applicable]\n\n=== SENTIMENT ANALYSIS ===\nOverall Sentiment: [positive/negative/neutral/mixed]\nSentiment Score: [-1.0 to 1.0]\nEmotional Tone: [specific emotions detected]\nIntensity: [low/medium/high]\n\n=== WRITING STYLE ===\nFormality Level: [formal/informal scale]\nComplexity: [1-10 scale]\nTone: [professional, casual, academic, etc.]\nTarget Audience: [estimated audience]\n\n=== TEXT STATISTICS ===\nWord Count: [count]\nReadability Level: [grade level]\nVocabulary Richness: [assessment]\nSentence Complexity: [simple/complex]\n\n=== KEY INSIGHTS ===\nMain Themes: [2-3 key themes identified]\nNotable Features: [unique characteristics]\nRecommendations: [suggestions for improvement if applicable]\nUse Cases: [where this text would be most effective]\n\n=== SUMMARY SCORE ===\nOverall Quality: [1-10 scale]\nClarity: [1-10 scale]\nEngagement: [1-10 scale]\nEffectiveness: [1-10 scale]\n\nAnalysis:', 'model_name': 'gpt2', 'vocab_len_of_model': 50257, 'input_token_ids': [5990, 687, 257, 9815, 3781, 286, 262, 1708, 2420, 11, 19771, 3294, 30063, 10581, 13, 198, 198, 8206, 284, 16602, 25, 198, 1, 464, 27647, 286, 9552, 3037, 318, 1111, 7895, 290, 9305, 329, 262, 2003, 286, 670, 526, 198, 198, 15946, 485, 1844, 3781, 287, 428, 20793, 5794, 25, 198, 198, 18604, 406, 15567, 52, 11879, 1222, 38267, 24565, 24844, 198, 35170, 15417, 25, 685, 15255, 11197, 3303, 60, 198, 18546, 1704, 25, 685, 15, 13, 15, 12, 16, 13, 15, 60, 198, 44, 2966, 42860, 25, 685, 361, 9723, 60, 198, 198, 18604, 311, 3525, 3955, 3525, 3537, 1847, 16309, 1797, 24844, 198, 16350, 11352, 3681, 25, 685, 24561, 14, 31591, 14, 29797, 14, 76, 2966, 60, 198, 31837, 3681, 15178, 25, 25915, 16, 13, 15, 284, 352, 13, 15, 60, 198, 10161, 25453, 45362, 25, 685, 11423, 10825, 12326, 60, 198, 5317, 6377, 25, 685, 9319, 14, 24132, 14, 8929, 60, 198, 198, 18604, 11342, 2043, 2751, 3563, 56, 2538, 24844, 198, 8479, 1483, 5684, 25, 685, 687, 282, 14, 259, 687, 282, 5046, 60, 198, 5377, 11141, 414, 25, 685, 16, 12, 940, 5046, 60, 198, 51, 505, 25, 685, 33163, 11, 9341, 11, 8233, 11, 3503, 8183, 198, 21745, 7591, 1240, 25, 685, 395, 15655, 5386, 60, 198, 198, 18604, 40383, 15486, 8808, 19505, 24844, 198, 26449, 2764, 25, 685, 9127, 60, 198, 5569, 1799, 5684, 25, 685, 9526, 1241, 60, 198, 53, 420, 22528, 3998, 1108, 25, 685, 562, 21687, 60, 198, 31837, 594, 19157, 414, 25, 685, 36439, 14, 41887, 60, 198, 198, 18604, 35374, 29194, 34874, 24844, 198, 13383, 383, 6880, 25, 685, 17, 12, 18, 1994, 13460, 5174, 60, 198, 45533, 17571, 25, 685, 34642, 9695, 60, 198, 41248, 602, 25, 685, 47811, 507, 329, 9025, 611, 9723, 60, 198, 11041, 35536, 25, 685, 3003, 428, 2420, 561, 307, 749, 4050, 60, 198, 198, 18604, 35683, 44, 13153, 6374, 6965, 24844, 198, 16350, 14156, 25, 685, 16, 12, 940, 5046, 60, 198, 2601, 6806, 25, 685, 16, 12, 940, 5046, 60, 198, 7936, 5082, 25, 685, 16, 12, 940, 5046, 60, 198, 18610, 6517, 25, 685, 16, 12, 940, 5046, 60, 198, 198, 32750, 25], 'input_token_ids_len': 364}
+
+TOKEN USAGE COMPARISON:
+----------------------------------------
+GEMINI TOKENS:
+{'prompt_tokens': 320, 'completion_tokens': 505, 'total_tokens': 1975}
+
+OPENAI TOKENS:
+{'prompt_token': 302, 'completion_token': 388, 'total_tokens': 690}
+
+Analysis completed
+
+BATCH PROCESSING DEMO
+----------------------------------------
+Comparing OpenAI and Gemini for BATCH_SENTIMENT:
+============================================================
+
+BATCH_SENTIMENT COMPARISON:
+
+GEMINI RESULT:
+----------------------------------------
+Here is the sentiment analysis for your batch of texts:
+
+TEXT 1:
+SENTIMENT ANALYSIS:
+The sentiment for this text is **Positive**. The presence of the word "love" directly expresses a strong positive emotion and high satisfaction with the "product". The statement is direct, unambiguous, and conveys a high degree of approval and affection.
+
+TEXT 2:
+SENTIMENT ANALYSIS:
+The sentiment for this text is **Negative**. The word "disappointing" explicitly indicates dissatisfaction and a negative experience related to the "service". The statement is clear, direct, and conveys a strong sense of displeasure.
+
+TEXT 3:
+SENTIMENT ANALYSIS:
+The sentiment for this text is **Positive**. The word "nice" describes the "weather" in a favorable way, indicating a pleasant and positive feeling about the current conditions. While not as strong as "love," it clearly conveys a positive sentiment.
+
+---
+
+BATCH SUMMARY:
+
+Overall Patterns:
+*   **Direct Polarity:** All texts exhibit very clear and unambiguous sentiment, either positive or negative, without any neutral or mixed feelings.
+*   **Concise Expression:** Each text is short, declarative, and uses a single sentiment-carrying word ("love," "disappointing," "nice") to convey its core emotion.   
+*   **Specific Subjectivity:** The sentiment in each text is tied to a specific subject (product, service, weather), making it easy to categorize and understand the object of the sentiment.
+*   **Absence of Nuance:** There is no sarcasm, irony, or complex contextual information required to understand the sentiment; it's explicitly stated.
+
+Variations:
+*   **Sentiment Polarity:** The batch contains two positive texts (Text 1, Text 3) and one negative text (Text 2), showing a mix of emotional states.
+*   **Strength of Sentiment:** While all sentiments are clear, their intensity varies. "Love" (Text 1) indicates a very strong positive emotion, "disappointing" (Text 2) implies a strong negative reaction, and "nice" (Text 3) suggests a moderate positive feeling.
+*   **Domain/Subject Matter:** The texts cover different domains: consumer product satisfaction, service experience, and environmental observation, indicating a diverse range of topics for sentiment.
+
+Recommendations:
+*   **Simple Rule-Based/Lexicon Analysis:** For texts of this nature, a straightforward rule-based or lexicon-based sentiment analysis approach would be highly effective, as the sentiment words are direct and common.
+*   **Sentiment Strength Scoring:** Implement a system that not only classifies polarity but also assigns a strength score (e.g., -1 to 1) to differentiate between "nice" and "love" to provide more granular insights.
+*   **Subject Extraction:** Continue to identify the subject of the sentiment (e.g., product, service, weather) alongside the sentiment itself, as this can be crucial for targeted feedback or domain-specific analysis.
+*   **Monitoring for Consistency:** Given the clarity of these examples, this batch provides excellent data for training or validating a basic sentiment model, ensuring it consistently identifies clear positive and negative statements.
+
+
+OPENAI RESULT:
+----------------------------------------
+TEXT 1:
+SENTIMENT ANALYSIS:
+The sentiment is overwhelmingly positive. The use of the word "love" indicates a strong favorable opinion towards the product. There are no negative or neutral words present in this text, reinforcing a clear positive sentiment.
+
+TEXT 2:
+SENTIMENT ANALYSIS:
+The sentiment is negative. The term "disappointing" explicitly conveys dissatisfaction and suggests that expectations were not met. This word choice directly contributes to the negative tone of the text.
+
+TEXT 3:
+SENTIMENT ANALYSIS:
+The sentiment is positive. The phrase "The weather is nice today" suggests a favorable opinion about the current weather conditions. The term "nice" is a positive descriptor, indicating pleasantness and satisfaction with the weather.
+
+BATCH SUMMARY:
+Overall Patterns: The overall pattern in this batch shows a tendency towards expressing clear opinions—either positive or negative. Each text contains a straightforward sentiment with little to no ambiguity.
+Variations: There is a notable variation in sentiment between the texts: Text 1 and Text 3 are positive, while Text 2 is negative. The difference is largely due to distinct word choices that clearly signal the sentiment (e.g., "love" in Text 1 versus "disappointing" in Text 2).
+Recommendations: To improve the understanding and reactions to such texts, consider responding to the sentiments expressed. For positive feedback (as in Text 1 and 3), acknowledge and encourage such positive experiences. For negative feedback (like in Text 2), identify areas of improvement and communicate steps being taken to address the issues to the concerned individuals.
+
+
+TOKENIZATION ANALYSIS:
+----------------------------------------
+Model: bert-base-uncased
+{'input_text': 'Perform sentiment analysis on the following batch of texts. Provide consistent analysis for each text.\n\nTexts to analyze:\nText 1: I love this product!\nText 2: This service is disappointing.\nText 3: The weather is nice today.\n\nFor each text, provide analysis in this format:\nTEXT [number]:\nSENTIMENT ANALYSIS:\n[Detailed analysis based on the type requested]\n\nBATCH SUMMARY:\nOverall Patterns: [common themes, styles, or sentiments across all texts]\nVariations: [notable differences between texts]\nRecommendations: [suggestions based on the batch analysis]\n\nAnalysis:', 'model_name': 'bert-base-uncased', 'vocab_len_of_model': 30522, 'input_token_ids': [101, 4685, 15792, 4106, 2006, 1996, 2206, 14108, 1997, 6981, 1012, 3073, 8335, 4106, 2005, 2169, 3793, 1012, 6981, 2000, 17908, 1024, 3793, 1015, 1024, 1045, 2293, 2023, 4031, 999, 3793, 1016, 1024, 2023, 2326, 2003, 15640, 1012, 3793, 1017, 1024, 1996, 4633, 2003, 3835, 2651, 1012, 2005, 2169, 3793, 1010, 3073, 4106, 1999, 2023, 4289, 1024, 3793, 1031, 2193, 1033, 1024, 15792, 4106, 1024, 1031, 6851, 4106, 2241, 2006, 1996, 2828, 7303, 1033, 14108, 12654, 1024, 3452, 7060, 1024, 1031, 2691, 6991, 1010, 6782, 1010, 2030, 23541, 2408, 2035, 6981, 1033, 8358, 1024, 1031, 3862, 5966, 2090, 6981, 1033, 11433, 1024, 1031, 15690, 2241, 2006, 1996, 14108, 4106, 1033, 4106, 1024, 102], 'input_token_ids_len': 113}
+
+Model: gpt2
+{'input_text': 'Perform sentiment analysis on the following batch of texts. Provide consistent analysis for each text.\n\nTexts to analyze:\nText 1: I love this product!\nText 2: This service is disappointing.\nText 3: The weather is nice today.\n\nFor each text, provide analysis in this format:\nTEXT [number]:\nSENTIMENT ANALYSIS:\n[Detailed analysis based on the type requested]\n\nBATCH SUMMARY:\nOverall Patterns: [common themes, styles, or sentiments across all texts]\nVariations: [notable differences between texts]\nRecommendations: [suggestions based on the batch analysis]\n\nAnalysis:', 'model_name': 'gpt2', 'vocab_len_of_model': 50257, 'input_token_ids': [5990, 687, 15598, 3781, 319, 262, 1708, 15458, 286, 13399, 13, 44290, 6414, 3781, 329, 1123, 2420, 13, 198, 198, 8206, 82, 284, 16602, 25, 198, 8206, 352, 25, 314, 1842, 428, 1720, 0, 198, 8206, 362, 25, 770, 2139, 318, 17185, 13, 198, 8206, 513, 25, 383, 6193, 318, 3621, 1909, 13, 198, 198, 1890, 1123, 2420, 11, 2148, 3781, 287, 428, 5794, 25, 198, 32541, 685, 17618, 5974, 198, 50, 3525, 3955, 3525, 3537, 1847, 16309, 1797, 25, 198, 58, 32080, 3781, 1912, 319, 262, 2099, 9167, 60, 198, 198, 33, 11417, 35683, 44, 13153, 25, 198, 16350, 47020, 25, 685, 11321, 13460, 11, 12186, 11, 393, 26930, 1973, 477, 13399, 60, 198, 23907, 602, 25, 685, 1662, 540, 5400, 1022, 13399, 60, 198, 41248, 602, 25, 685, 47811, 507, 1912, 319, 262, 15458, 3781, 60, 198, 198, 32750, 25], 'input_token_ids_len': 142}
+
+TOKEN USAGE COMPARISON:
+----------------------------------------
+GEMINI TOKENS:
+{'prompt_tokens': 130, 'completion_tokens': 660, 'total_tokens': 1393}
+
+OPENAI TOKENS:
+{'prompt_token': 127, 'completion_token': 331, 'total_tokens': 458}
+
+ Batch analysis completed successfully
