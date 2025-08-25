@@ -19,8 +19,6 @@ except Exception as e:
     pass
 
 
-
-
 # Using openai through openrouter
 
 try:
